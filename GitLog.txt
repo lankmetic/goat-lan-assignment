@@ -1,0 +1,41 @@
+* commit 41d342ae2b08216abc4ef1e7f56fa82f5d622a79 (HEAD -> feature-01, origin/feature-01)
+| Author: Student <student@ucione.local>
+| Date:   Fri Jan 16 12:03:27 2026 +0100
+| 
+|     Update feature file
+| 
+* commit 92d69442a6fb2524f58aaed777ed96604d22883d
+| Author: Student <student@ucione.local>
+| Date:   Fri Jan 16 12:03:22 2026 +0100
+| 
+|     Add feature file
+| 
+* commit b31f52ec64ae635657b8c8814da329a7907a0829
+| Author: Student <student@ucione.local>
+| Date:   Fri Jan 16 10:57:55 2026 +0100
+| 
+|     Add .gitignore
+|   
+| * commit 8f724e6b4c934772ba5ab69c8733299e7af328b4 (master)
+| | Author: Student <student@ucione.local>
+| | Date:   Fri Jan 16 12:02:16 2026 +0100
+| | 
+| |     Add .gitignore
+| | 
+| * commit 43c7b36ddefe50615a6f5535d4890ff3f7e187f3 (origin/master, origin/HEAD)
+|/  Author: Student <student@ucione.local>
+|   Date:   Fri Jan 16 11:52:46 2026 +0100
+|   
+|       Replace old files with specification, wireframe and CSV
+| 
+* commit 2808dfee993801b2a4e8280443ffb2b3307e4b3c
+| Author: lankmetic <lankmetic3@gmail.com>
+| Date:   Thu Jan 15 12:21:35 2026 +0100
+| 
+|     Update GOAT.txt
+| 
+* commit 9934391b4c395f13c2d06ebd224f1cb7325376cc
+  Author: lankmetic <student@ucione.local>
+  Date:   Thu Jan 15 11:53:53 2026 +0100
+  
+      initial commit?
