@@ -1,0 +1,14 @@
+work item type;title 1;title 3;title 4;state;estimate
+Epic;Wildlife Observation Management;;;New;
+User Story;Wildlife Observation Management;Record wildlife observation;;New;5
+Task;Wildlife Observation Management;Record wildlife observation;Design observation data model;New;3
+Task;Wildlife Observation Management;Record wildlife observation;Create mobile observation form UI;New;5
+Task;Wildlife Observation Management;Record wildlife observation;Implement photo & video upload;New;4
+Epic;Offline Data Collection & Sync;;;New;
+User Story;Offline Data Collection & Sync;Offline observation entry;;New;8
+Task;Offline Data Collection & Sync;Offline observation entry;Implement local mobile storage;New;5
+Task;Offline Data Collection & Sync;Offline observation entry;Auto-sync when connection restored;New;5
+Epic;IoT Device Integration;;;New;
+User Story;IoT Device Integration;Ingest IoT tracking data;;New;8
+Task;IoT Device Integration;Ingest IoT tracking data;Create IoT ingestion API;New;5
+Task;IoT Device Integration;Ingest IoT tracking data;Store GPS & sensor data;New;3
