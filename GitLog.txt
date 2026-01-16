@@ -1,28 +1,41 @@
-* commit 41d342ae2b08216abc4ef1e7f56fa82f5d622a79 (HEAD -> feature-01, origin/feature-01)
-| Author: Student <student@ucione.local>
-| Date:   Fri Jan 16 12:03:27 2026 +0100
-| 
-|     Update feature file
-| 
-* commit 92d69442a6fb2524f58aaed777ed96604d22883d
-| Author: Student <student@ucione.local>
-| Date:   Fri Jan 16 12:03:22 2026 +0100
-| 
-|     Add feature file
-| 
-* commit b31f52ec64ae635657b8c8814da329a7907a0829
-| Author: Student <student@ucione.local>
-| Date:   Fri Jan 16 10:57:55 2026 +0100
-| 
-|     Add .gitignore
-|   
-| * commit 8f724e6b4c934772ba5ab69c8733299e7af328b4 (master)
+*   commit 9876e34acbc5e2b2c2c99021d3b2cc5339ff273b (HEAD -> master, origin/master, origin/HEAD)
+|\  Merge: 8f724e6 7973f5b
+| | Author: Student <student@ucione.local>
+| | Date:   Fri Jan 16 12:10:17 2026 +0100
+| | 
+| |     Merge feature-01 into master
+| | 
+| * commit 7973f5b37851c1392748837e3c5e32d032bf69d9 (origin/feature-01, feature-01)
+| | Author: Student <student@ucione.local>
+| | Date:   Fri Jan 16 12:06:07 2026 +0100
+| | 
+| |     Add GitLog.txt
+| | 
+| * commit 41d342ae2b08216abc4ef1e7f56fa82f5d622a79
+| | Author: Student <student@ucione.local>
+| | Date:   Fri Jan 16 12:03:27 2026 +0100
+| | 
+| |     Update feature file
+| | 
+| * commit 92d69442a6fb2524f58aaed777ed96604d22883d
+| | Author: Student <student@ucione.local>
+| | Date:   Fri Jan 16 12:03:22 2026 +0100
+| | 
+| |     Add feature file
+| | 
+| * commit b31f52ec64ae635657b8c8814da329a7907a0829
+| | Author: Student <student@ucione.local>
+| | Date:   Fri Jan 16 10:57:55 2026 +0100
+| | 
+| |     Add .gitignore
+| | 
+* | commit 8f724e6b4c934772ba5ab69c8733299e7af328b4
 | | Author: Student <student@ucione.local>
 | | Date:   Fri Jan 16 12:02:16 2026 +0100
 | | 
 | |     Add .gitignore
 | | 
-| * commit 43c7b36ddefe50615a6f5535d4890ff3f7e187f3 (origin/master, origin/HEAD)
+* | commit 43c7b36ddefe50615a6f5535d4890ff3f7e187f3
 |/  Author: Student <student@ucione.local>
 |   Date:   Fri Jan 16 11:52:46 2026 +0100
 |   
